@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    //Enter TMDb Api key Here
+    <string name="api">!!REPLACE THIS WITH YOUR API KEY!!</string>
+
+    <string name="detail_activity">Movie Details</string>
+
+    <string name="content_description">Movie Poster</string>
+    <string name="show_network_error_message">No Internet connection! Make sure you are connected to the Internet.</string>
+    <string name="option_popularity">Sort by Most Popular</string>
+    <string name="option_top_rated">Sort by Top rating</string>
+    <string name="top_rated_url">https://api.themoviedb.org/3/movie/top_rated?api_key=</string>
+    <string name="popular_url">https://api.themoviedb.org/3/movie/popular?api_key=</string>
+
+</resources>
